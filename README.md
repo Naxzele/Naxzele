@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+# Current projects
+- Pairs trading
+- Housing price interval prediction in Belgium
+- Geoguessr bot
+- Predicting class of the arxiv article in a streaming setting with finetuned LLM
 
 <!--
 **Naxzele/Naxzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
